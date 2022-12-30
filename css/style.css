@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo&display=swap');
+
+
+@media (max-width: 575.98px) {
+    
+
+}
+
+
+body{
+    font-family: 'Cairo', sans-serif;
+    background-color: rgb(225, 238, 250);
+    height: 5000px;
+}
+.header{
+    background-color: #1c1d1fd7;
+    color: white;
+    height: 50px;
+    line-height: 50px;
+}
+.header a{
+    float: left;
+}
+.col p{
+    float: right;
+}
+.col strong{
+    color: green;
+}
+
+
+.second{
+    color: white;
+    
+}
+.features{
+    background-color: #1c1d1fd7;
+    color: white;
+    margin-top: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+    border-radius: 10px;
+ }
+.features i {
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    line-height: 100px;
+    color: white;
+    font-size: 40px;
+}
+.features h3 {
+    
+    margin-top: 0px;
+    margin-bottom: 0px;
+    
+}
+.features p {
+    color: white;
+    line-height: 1.8;
+}
+.our-team{
+    margin-left: 5px;
+    margin-right: 5px;
+    border-radius: 10px;
+}
+
+
+.statistique{
+    margin-top: 100px;
+    width: 100%;
+    
+    background-image: url(../images/احصائيات2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+.statistique .overly{
+    padding-top: 130px;
+    background-color: rgba(0, 0, 0, 0.473);
+    width: 100%;
+    height: 100%;
+}
+.statistique .overly h3{
+    color: whitesmoke;
+    font-style: italic;
+}
+.statistique .overly p{
+    color: white;
+    font-size: 75px;
+    font-style: italic;
+}
